@@ -49,7 +49,7 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ### 🔹 Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tcs-ion-handwritten-text-extraction.git
+git clone https://github.com/Nikk1412/TCS-iON-RIO125-Automate-extraction-of-handwritten-text-from-an-image.git
 cd tcs-ion-handwritten-text-extraction
 ```
 
