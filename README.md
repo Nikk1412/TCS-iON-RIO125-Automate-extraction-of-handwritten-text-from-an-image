@@ -30,14 +30,16 @@ The system leverages **Tesseract OCR** combined with **image preprocessing techn
 
 ## 📂 Project Structure
 ```
-📦 handwritten-text-extraction
- ┣ 📂 dataset/ # Sample handwritten text images
- ┣ 📂 output/ # Extracted text results
- ┣ 📜 main.py # Main script for OCR processing
- ┣ 📜 preprocessing.py # Image preprocessing functions
- ┣ 📜 requirements.txt # Dependencies
- ┣ 📜 README.md # Project documentation
- ┣ 📜 app.py # Streamlit-based web interface
+📦 Automate-identification-and-recognition-of-handwritten-text-from-image
+┣ 📂 App/ # Application files
+┣ 📂 HTR_Models/ # Handwritten Text Recognition models
+┣ 📂 HTR_Using_CRNN/ # CRNN implementation files
+┣ 📂 Images/ # Input images for processing
+┣ 📂 TestImages/ # Test images for evaluation
+┣ 📜 HTR_USING_CRNN.ipynb # Jupyter notebook with CRNN implementation
+┣ 📜 Project Report.pdf # Documentation of the project
+┣ 📜 TCS_iON_RIO125_-_Automate_extraction.ipynb # Main implementation notebook
+┣ 📜 README.md # Project documentation
 ```
 
 ---
